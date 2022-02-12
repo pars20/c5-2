@@ -1,0 +1,17 @@
+{
+    "name": "salam/panj",
+    "autoload": {
+        "psr-4": {
+            "Salam\\Panj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jafar",
+            "email": "pars20@yahoo.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    }
+}
