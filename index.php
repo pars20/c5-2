@@ -1,7 +1,5 @@
 <?
 
-echo "TEST";
-
 use jafar\m13;
 use salam\chahar\panj\p04;
 use salam\psr0\p01;
